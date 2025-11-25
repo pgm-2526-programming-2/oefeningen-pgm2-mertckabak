@@ -1,5 +1,8 @@
 const message = "Hey daar";
 
+sayHello();
+// say(); // werkt niet
+
 function sayHello() {
   const message = "Bye!";
 
