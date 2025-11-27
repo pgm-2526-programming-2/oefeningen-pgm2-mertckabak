@@ -1,0 +1,19 @@
+// Voorbeeld antwoord
+const array1 = [1, 2, 3];
+const array2 = [4, 5, 6];
+
+//Schrijf een functie die twee arrays met getallen optelt. De functie moet een nieuwe array teruggeven met de som van de overeenkomstige getallen in de twee arrays.
+
+function telArraysOp(arr1, arr2) {
+  const lengte = Math.min(arr1.length, arr2.length);
+  const resultaat = [];
+
+  for (let i = 0; i < lengte; i++) {
+    resultaat.push(arr1[i] + arr2[i]);
+  }
+
+  return resultaat;
+}
+
+const result = telArraysOp(array1, array2);
+console.log(result);
