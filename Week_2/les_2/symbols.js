@@ -14,4 +14,4 @@ const STATES = {
   LOADED: Symbol("Laden"),
 };
 
-console.log(STATES.LOADED === STATES.LOADED);
+console.log(STATES.LOADING === STATES.LOADED);
