@@ -1,5 +1,5 @@
-function addProperty(obj1) {
-  return { ...obj1 };
+function addProperty(obj1, key, value) {
+  return { ...obj1, [key]: value };
 }
 
 const originalObject = { name: "Alice" };

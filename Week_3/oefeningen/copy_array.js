@@ -1,5 +1,5 @@
 function copyArray(a) {
-  return originalArray;
+  return [...a];
 }
 
 const originalArray = [1, 2, 3];
