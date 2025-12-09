@@ -1,8 +1,8 @@
 function generateRandomData() {
-  const data = [];
+  const randomGeneratedData = [];
 
   for (let i = 0; i < 25; i++) {
-    data.push({
+    randomGeneratedData.push({
       id: i,
       value: Math.floor(Math.random() * 100),
       category: i % 2 === 0 ? "Even" : "Odd",
@@ -14,7 +14,7 @@ function generateRandomData() {
     });
   }
 
-  return data;
+  return randomGeneratedData;
 }
 
 module.exports = {
