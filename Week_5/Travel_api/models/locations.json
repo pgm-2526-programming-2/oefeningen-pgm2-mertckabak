@@ -1,0 +1,112 @@
+[
+  {
+    "uuid": "b053a021-d1f7-4673-a8f4-62d61fd9a3e4",
+    "name": "Eiffel Tower",
+    "country": "France",
+    "city": "Paris",
+    "coordinates": {
+      "lat": 48.8584,
+      "long": 2.2945
+    }
+  },
+  {
+    "uuid": "c62786e3-21cc-4b5c-8a93-d8c8a568c1c1",
+    "name": "Great Wall of China",
+    "country": "China",
+    "city": "Beijing",
+    "coordinates": {
+      "lat": 40.4319,
+      "long": 116.5704
+    }
+  },
+  {
+    "uuid": "0d8e1a72-0e7b-4d9e-b421-1b8e3c2878e2",
+    "name": "Colosseum",
+    "country": "Italy",
+    "city": "Rome",
+    "coordinates": {
+      "lat": 41.8902,
+      "long": 12.4922
+    }
+  },
+  {
+    "uuid": "f4f9c014-cc4b-44db-bd9b-2a0f8f7b34a3",
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "city": "Cusco",
+    "coordinates": {
+      "lat": -13.1631,
+      "long": -72.545
+    }
+  },
+  {
+    "uuid": "9de58725-d1ff-4a35-b126-970e43b705b0",
+    "name": "Sydney Opera House",
+    "country": "Australia",
+    "city": "Sydney",
+    "coordinates": {
+      "lat": -33.8568,
+      "long": 151.2153
+    }
+  },
+  {
+    "uuid": "799cb9c1-f259-4f58-8d8d-d23e49e2175b",
+    "name": "Christ the Redeemer",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "coordinates": {
+      "lat": -22.9519,
+      "long": -43.2105
+    }
+  },
+  {
+    "uuid": "86552ec0-ea47-4d8d-bc6f-58f042939e8e",
+    "name": "Pyramids of Giza",
+    "country": "Egypt",
+    "city": "Giza",
+    "coordinates": {
+      "lat": 29.9792,
+      "long": 31.1342
+    }
+  },
+  {
+    "uuid": "4d92bff2-99e2-4b95-b99e-5f04e40b8b7e",
+    "name": "Mount Fuji",
+    "country": "Japan",
+    "city": "Fujinomiya",
+    "coordinates": {
+      "lat": 35.3606,
+      "long": 138.7274
+    }
+  },
+  {
+    "uuid": "9f7b45fa-c505-47e9-9a2f-1e4f4046ba61",
+    "name": "Santorini",
+    "country": "Greece",
+    "city": "Thira",
+    "coordinates": {
+      "lat": 36.3932,
+      "long": 25.4615
+    }
+  },
+  {
+    "uuid": "246801cf-7e0c-47da-b9c9-4156c557d699",
+    "name": "Taj Mahal",
+    "country": "India",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 27.1751,
+      "long": 78.0421
+    }
+  },
+  {
+    "uuid": "a3c2f1b4-8e7d-4a9a-b5c6-9f2e3d1c4a88",
+    "name": "Statue of Liberty",
+    "country": "United States",
+    "city": "New York",
+    "coordinates": {
+      "lat": 40.6892,
+      "long": -74.0445
+    }
+  }
+]

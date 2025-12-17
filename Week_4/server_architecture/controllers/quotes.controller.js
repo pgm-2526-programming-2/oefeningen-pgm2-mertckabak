@@ -17,10 +17,21 @@ function getQuoteById(req, res) {
 
   //neem alle quotes - array
   const allQuotes = getData("quotes.json");
+
+  //controlleren of id bestaat in de array
+  const isQuoteInArray = allQuotes.some();
+
   // zoeken in een array
   const quoteWithId = allQuotes.find((quote) => quote.id === questionId);
-  // response -> resultaat
-  res.json(quoteWithId);
+
+  if (questionId) {
+    // Response -> resultaat
+    res.json(quoteWithId);
+  } else {
+    res.status(422);
+    // res.json(new Error("Quote bestaat niet."));
+    throw new Error("Quote bestaat niet.");
+  }
 }
 
 module.exports = {
