@@ -1,0 +1,121 @@
+[
+  {
+    "uuid": "a1b2c3d4-e5f6-7890-g1h2-i3j4k5l6m7n8",
+    "name": "Eiffel Tower",
+    "country": "France",
+    "city": "Paris",
+    "coordinates": {
+      "lat": 48.8584,
+      "long": 2.2945
+    }
+  },
+  {
+    "uuid": "b2c3d4e5-f6g7-8901-h2i3-j4k5l6m7n8o9",
+    "name": "Colosseum",
+    "country": "Italy",
+    "city": "Rome",
+    "coordinates": {
+      "lat": 41.8902,
+      "long": 12.4924
+    }
+  },
+  {
+    "uuid": "c3d4e5f6-g7h8-9012-i3j4-k5l6m7n8o9p0",
+    "name": "Statue of Liberty",
+    "country": "United States",
+    "city": "New York City",
+    "coordinates": {
+      "lat": 40.6892,
+      "long": -74.0445
+    }
+  },
+  {
+    "uuid": "d4e5f6g7-h8i9-0123-j4k5-l6m7n8o9p0q1",
+    "name": "Great Wall of China",
+    "country": "China",
+    "city": "Beijing",
+    "coordinates": {
+      "lat": 40.4319,
+      "long": 116.5704
+    }
+  },
+  {
+    "uuid": "e5f6g7h8-i9j0-1234-k5l6-m7n8o9p0q1r2",
+    "name": "Machu Picchu",
+    "country": "Peru",
+    "city": "Cusco",
+    "coordinates": {
+      "lat": -13.1631,
+      "long": -72.545
+    }
+  },
+  {
+    "uuid": "f6g7h8i9-j0k1-2345-l6m7-n8o9p0q1r2s3",
+    "name": "Sydney Opera House",
+    "country": "Australia",
+    "city": "Sydney",
+    "coordinates": {
+      "lat": -33.8568,
+      "long": 151.2153
+    }
+  },
+  {
+    "uuid": "g7h8i9j0-k1l2-3456-m7n8-o9p0q1r2s3t4",
+    "name": "Taj Mahal",
+    "country": "India",
+    "city": "Agra",
+    "coordinates": {
+      "lat": 27.1751,
+      "long": 78.0421
+    }
+  },
+  {
+    "uuid": "h8i9j0k1-l2m3-4567-n8o9-p0q1r2s3t4u5",
+    "name": "Sagrada Família",
+    "country": "Spain",
+    "city": "Barcelona",
+    "coordinates": {
+      "lat": 41.4036,
+      "long": 2.1744
+    }
+  },
+  {
+    "uuid": "i9j0k1l2-m3n4-5678-o9p0-q1r2s3t4u5v6",
+    "name": "Petra",
+    "country": "Jordan",
+    "city": "Ma'an Governorate",
+    "coordinates": {
+      "lat": 30.3285,
+      "long": 35.4444
+    }
+  },
+  {
+    "uuid": "j0k1l2m3-n4o5-6789-p0q1-r2s3t4u5v6w7",
+    "name": "Christ the Redeemer",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "coordinates": {
+      "lat": -22.9519,
+      "long": -43.2106
+    }
+  },
+  {
+    "uuid": "k1l2m3n4-o5p6-7890-q1r2-s3t4u5v6w7x8",
+    "name": "Atomium",
+    "country": "Belgium",
+    "city": "Brussels",
+    "coordinates": {
+      "lat": 50.8949,
+      "long": 4.3416
+    }
+  },
+  {
+    "uuid": "k1l2m3n4-o5p6-7890-q1r2-s3t4u5v6w7x8",
+    "country": "Belgium",
+    "city": "Brussels",
+    "coordinates": {
+      "lat": 50.8949,
+      "long": 4.3416
+    }
+  }
+]

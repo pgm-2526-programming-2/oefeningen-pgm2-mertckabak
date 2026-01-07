@@ -1,0 +1,11 @@
+{
+  "source": {
+    "includePattern": ".js",
+    "excludePattern": "node_modules/"
+  },
+  "opts": {
+    "template": "templates/default", // same as -t templates/default
+    "destination": "./demo-documentation", // same as -d ./out/
+    "recurse": true // same as -r
+  }
+}
